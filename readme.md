@@ -7,7 +7,7 @@ Bu repo, [kodluyoruz](https://kodluyoruz.org) Front-End egitiminde olusturdugumu
 Oncelikle projeyi klonlayalim
 
 ```
-git clone https://
+git clone https://github.com/FehimJS/kodluyoruzilkrepo/tree/master.git
 ```
 
 ## Usage
